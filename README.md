@@ -8,7 +8,7 @@
 
 - 📫 You can reach me through:
     - Email: odhisoarnold@gmail.com
-    - LinkedIn: linkedin.com/in/arnold-odhiambo-obiero
+    - LinkedIn: https://www.linkedin.com/in/arnold-odhiambo-obiero/
 
 - ⚡ Fun fact: I bet you can't beat me at FIFA 😄
 
