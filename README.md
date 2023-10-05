@@ -6,16 +6,21 @@
 
 - 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, computer vision, and technical documentation.
 
-- 💬 Some of the languages and frameworks I'm proficient with are:
-    - Python
-    - JavaScript
-    - C/C++
-    - React
-    - Express
-    - Flask
-    - OpenCV
-    - Tensorflow
-    - Keras
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+- Python
+- JavaScript
+- C/C++
+- React
+- Express
+- Flask
+- OpenCV
+- Tensorflow
+- Keras
+
+---
 
 - 📫 You can reach me through:
     - Email: odhisoarnold@gmail.com
