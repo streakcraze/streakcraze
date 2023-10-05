@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, and technical documentation.
 
 - 📫 You can reach me through:
-    Email: odhisoarnold@gmail.com
-    LinkedIn: linkedin.com/in/arnold-odhiambo-obiero 
+    - Email: odhisoarnold@gmail.com
+    - LinkedIn: linkedin.com/in/arnold-odhiambo-obiero
 
 - ⚡ Fun fact: I bet you can't beat me at FIFA 😄
 
