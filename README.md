@@ -26,7 +26,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=streakcraze)](https://github.com/streakcraze/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=streakcraze&show_icons=true&theme=radical)](https://github.com/streakcraze/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streakcraze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
