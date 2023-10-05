@@ -7,9 +7,15 @@
 - 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, computer vision, and technical documentation.
 
 - 💬 Some of the languages and frameworks I'm proficient with are:
-    - Python            - React            - OpenCV
-    - Javascript        - Express          - Tensorflow
-    - C/C++             - Flask            - Keras
+    - Python
+    - JavaScript
+    - C/C++
+    - React
+    - Express
+    - Flask
+    - OpenCV
+    - Tensorflow
+    - Keras
 
 - 📫 You can reach me through:
     - Email: odhisoarnold@gmail.com
@@ -20,6 +26,7 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=streakcraze&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streakcraze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
