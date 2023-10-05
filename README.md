@@ -1,8 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Arnold Obiero </h1>
+
+<h2 align="center"> An avid learner and tech enthusiast 🔥 </h2>
+
+---
 
 - 🔭 I’m currently working on various machine learning tasks provided by Prodigy InfoTech to gain hands-on skills using several ML and deep learning algorithms, including linear regression, k-means clustering, support vector machines, and convolutional neural networks.
 
-- 🌱 I’m also about to complete my Bachelors in electronics and computer engineering at the Jomo Kenyatta University of Agriculture and Technology in Thika, Kenya. It has been an exciting journey where I got to learn several electronic design concepts such as circuit theory, digital logic, control engineering, signals and communication, and engineering mathematics among others. We also delved into several computing concepts such as operating systems, structured and object-oriented programming, compiler construction, computer networks, database management systems, and cryptography among others.
+- 🌱 I’m also about to complete my Bachelors in electronics and computer engineering at the Jomo Kenyatta University of Agriculture and Technology in Thika, Kenya. It has been an exciting journey where I got to learn several electronic design concepts such as circuit theory, digital logic, control engineering, signals and communication, and engineering mathematics among others. We also delved deep into several computing concepts such as operating systems, structured and object-oriented programming, compiler construction, computer networks, database management systems, and cryptography among others.
 
 - 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, computer vision, and technical documentation.
 
