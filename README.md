@@ -4,7 +4,12 @@
 
 - 🌱 I’m also about to complete my Bachelors in electronics and computer engineering at the Jomo Kenyatta University of Agriculture and Technology in Thika, Kenya. It has been an exciting journey where I got to learn several electronic design concepts such as circuit theories, digital logic, control engineering, signals and communication, power electronics, electrical machines, and engineering mathematics among others. We also delved into several computing concepts such as operating systems, structured and object-oriented programming, compiler construction, computer networks, database management systems, and cryptography among others.
 
-- 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, and technical documentation.
+- 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, computer vision, and technical documentation.
+
+- 💬 Some of the languages and frameworks I'm proficient with are:
+    - Python            - React            - OpenCV
+    - Javascript        - Express          - Tensorflow
+    - C/C++             - Flask            - Keras
 
 - 📫 You can reach me through:
     - Email: odhisoarnold@gmail.com
