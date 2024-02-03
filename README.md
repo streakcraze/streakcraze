@@ -2,25 +2,24 @@
 
 <h2 align="center"> An avid learner and tech enthusiast 🔥 </h2>
 
-- 🔭 I’m currently working on various machine learning tasks provided by Prodigy InfoTech to gain hands-on skills using several ML and deep learning algorithms, including linear regression, k-means clustering, support vector machines, and convolutional neural networks.
+- 🔭 I’m currently working on using various machine learning techniques for vehicle accident detection.
 
-- 🌱 I’m also about to complete my Bachelors in electronics and computer engineering at the Jomo Kenyatta University of Agriculture and Technology in Thika, Kenya. It has been an exciting journey where I got to learn several electronic design concepts such as electromagnetics, circuit theory, engineering mathematics, digital logic, control engineering, and signals and communication among others. We also delved deep into several computing concepts such as operating systems, structured and object-oriented programming, compiler construction, computer networks, database management systems, and cybersecurity among others.
+- 🌱 I’m also about to complete my Bachelors in electronics and computer engineering at the Jomo Kenyatta University of Agriculture and Technology in Thika, Kenya.
 
-- 👯 I’m looking to collaborate on developing web applications, cloud applications, data science and ML projects, embedded systems, IoT projects, computer vision, and technical documentation.
+- 👯 I’m looking to collaborate on developing web applications, ML models, and technical documentation and providing cloud and IoT solutions.
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Languages :
 
 - Python
 - JavaScript
-- C/C++
+- C++
+  
+### 🛠️ Tools :
 - React
-- Express
 - Flask
-- OpenCV
-- Tensorflow
-- Keras
+- Scikit-learn
 
 ---
 
