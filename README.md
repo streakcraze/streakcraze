@@ -2,7 +2,7 @@
 
 <h2 align="center"> An avid learner and tech enthusiast 🔥 </h2>
 
-- 🔭 I’m currently working on using various machine learning techniques for vehicle accident detection.
+- 🔭 I’m currently working on using various machine learning techniques for vehicle accident detection (neural networks, support vector machines, and random forest classifiers).
 
 - 🌱 I’m also about to complete my Bachelors in electronics and computer engineering at the Jomo Kenyatta University of Agriculture and Technology in Thika, Kenya.
 
