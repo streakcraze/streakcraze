@@ -18,6 +18,7 @@
   
 ### 🛠️ Tools :
 - React
+- Node
 - Flask
 - Scikit-learn
 
