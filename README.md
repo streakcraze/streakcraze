@@ -20,7 +20,7 @@
 - React
 - Node
 - Flask
-- Scikit-learn
+- Scikit
 
 ---
 
